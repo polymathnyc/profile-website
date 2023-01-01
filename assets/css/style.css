@@ -465,6 +465,11 @@ a.hoverline:hover {
   border-bottom: 3px solid #004d40 !important;
 }
 
+.project-links{
+  padding-top: 20px;
+  padding-left: 10px;
+}
+
 #skills .card.large {
   height: 360px;
 }
