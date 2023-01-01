@@ -371,7 +371,7 @@ h3 {
   font-size: 1.25rem;
   position: absolute;
   right: 38px;
-  top: 35px;
+  top: 30px;
 }
 
 .card li a {
@@ -386,7 +386,7 @@ h3 {
 }
 
 .card .card-content {
-  padding-bottom: 20px;
+  padding: 20px 30px 20px 30px;
 }
 
 .card .card-content p {
@@ -409,6 +409,7 @@ h3 {
 #experience .card-action {
   background-color: rgba(0, 0, 0, 0.02);
   border: none;
+  padding-left: 30px;
 }
 
 #experience .card .col.s12.m2 a {
@@ -441,6 +442,7 @@ h3 {
 
 .card .card-title {
   font-size: 24px;
+  font-weight: bold;
 }
 
 .card .card-content .card-title {
@@ -537,7 +539,6 @@ small {
 
 .teal-text {
   color: #008073 !important;
-  font-weight: bold;
 }
 
 /* .teal-text {
