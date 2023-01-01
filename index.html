@@ -12,10 +12,9 @@
 </head>
 
 <body>
-    <!-- Nav class 1 -->
-    <nav class="hide-on-small-only">
+    <!-- Nav class 1: Visible on left side when screen is greater than 992px-->
+    <nav>
         <ul class="side-nav fixed section table-of-contents">
-
             <li class="logo">
                 <a id="logo-container" aria-label="Navigate to the beginning of the page" href="#intro"
                     class="brand-logo grey-blue-text">
@@ -34,8 +33,6 @@
             </li>
 
             <li class="bold">
-                <!-- mdi-av-web small
-             mdi-av-my-library-books small-->
                 <a aria-label="Navigate to the Projects section" href="#projects"
                     class="waves-effect waves-dark teal-text"><i
                         class="mdi-av-my-library-books small"></i><span>Projects</span></a>
@@ -68,7 +65,7 @@
         </ul>
     </nav>
 
-    <!-- Nav class 2 -->
+    <!-- Nav class 2: Visible on top when screen is less than or equal to 992px)-->
     <nav class="hide-on-large only trigger z-depth-1">
         <a aria-label="Toggle visibility of the mobile navbar" href="#" data-activates="slide-out"
             class="button-collapse"><i class="mdi-navigation-menu"></i></a>
@@ -78,7 +75,7 @@
         </div>
     </nav>
 
-    <!-- Nav class 3 -->
+    <!-- Nav class 3: Hamburger menu visible on top left when screen is less than or equal to 992px -->
     <nav class="hide-on-large only">
         <ul id="slide-out" class="side-nav">
             <li class="bold">
@@ -147,7 +144,7 @@
                                 </button>
                             </a>
                         </div>
-                        <div class='buttons'>
+                        <div>
                             <a href="#about" class="readme">Read More</a>
                             <a href="#contact" class="contactme">Contact Me</a>
                         </div>
