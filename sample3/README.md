@@ -1,6 +1,6 @@
 # My Portfolio Website
 
-This is the source code for my portfolio website, which showcases my skills, experience and projects.
+This is the source code for portfolio website template, which showcases your skills, experience and projects.
 
 ## Technologies Used:
 
