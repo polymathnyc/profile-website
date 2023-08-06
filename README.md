@@ -1,14 +1,16 @@
 # website-template
 
 ## sample1
-https://github.com/polymathnyc/profile-website/assets/88815405/de2b8092-e8df-41e5-ab8e-3f80d0a4fbcf
+https://github.com/polymathnyc/profile-website/assets/88815405/379de426-0091-49a1-a51e-cad4c9583538
 
 
 
 ## sample2
-https://github.com/polymathnyc/profile-website/assets/88815405/bfde74fa-8797-44ae-a48f-507b668474d5
+https://github.com/polymathnyc/profile-website/assets/88815405/a4164846-c416-4885-9150-7621f5b848f1
+
 
 
 ## sample3
-https://github.com/polymathnyc/profile-website/assets/88815405/64903c3c-9ba1-4b27-8326-4cc43c14bea6
+https://github.com/polymathnyc/profile-website/assets/88815405/497a4a57-2536-437d-99b8-0340857e8f2c
+
 
