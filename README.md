@@ -11,6 +11,8 @@ https://github.com/polymathnyc/profile-website/assets/88815405/f3afa75e-9817-4bd
 
 
 ## sample3
-https://github.com/polymathnyc/profile-website/assets/88815405/497a4a57-2536-437d-99b8-0340857e8f2c
+https://github.com/polymathnyc/profile-website/assets/88815405/9a8a11f4-44ff-4b0e-9b09-ddb776e50b4a
+
+
 
 
