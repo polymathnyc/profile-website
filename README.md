@@ -4,8 +4,11 @@
 https://github.com/polymathnyc/profile-website/assets/88815405/379de426-0091-49a1-a51e-cad4c9583538
 
 
+https://github.com/polymathnyc/profile-website/assets/88815405/301875c1-0c24-4b1f-a1a1-798d54353b6f
 
-https://github.com/polymathnyc/profile-website/assets/88815405/ceeec8d3-516d-4b48-88b0-cc69eda3dcf1
+
+
+
 
 
 
