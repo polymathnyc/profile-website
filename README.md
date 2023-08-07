@@ -6,7 +6,7 @@ https://github.com/polymathnyc/profile-website/assets/88815405/2aed4c1c-283a-4f8
 
 
 ## sample2
-https://github.com/polymathnyc/profile-website/assets/88815405/a4164846-c416-4885-9150-7621f5b848f1
+https://github.com/polymathnyc/profile-website/assets/88815405/f3afa75e-9817-4bd0-b651-b9dcfac488ca
 
 
 
